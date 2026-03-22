@@ -1,0 +1,13 @@
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/model/Grade.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/repository/Repositories.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/controller/StudentController.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/GradeManagementApplication.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/controller/AnalyticsController.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/security/JwtUtils.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/security/SecurityConfig.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/exception/ExceptionConfig.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/model/Student.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/controller/AuthController.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/dto/Dtos.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/model/User.java
+/home/pumpkin/Workspace/student-grade-management/src/main/java/com/hasanthi/grades/controller/GradeController.java
